@@ -1,4 +1,4 @@
-<?php require_once 'counter.php'; ?>
+<?php require_once 'ccounter.php'; ?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
